@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/oguzhanozturk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="OguzhanOzturkLinkedln" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ogibey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogibey_" height="30" width="40" /></a>
 </p>
-
+<br>
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
