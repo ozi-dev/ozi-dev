@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan ÖZTÜRK</h1>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Image Processing and Backend Web Development**
 - 🌱 I’m currently learning **
