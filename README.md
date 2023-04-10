@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **Image Processing and Web Development**
-- 
+
 - 📫 To reach me: **oguzhanozturk0@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
