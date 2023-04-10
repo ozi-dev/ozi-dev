@@ -5,7 +5,7 @@
 
 - 📫 To reach me: **oguzhanozturk0@outlook.com**
 
-- :robot: Member of <a href="https://github.com/RootRover">@RootRover</a>
+- :car: Member of <a href="https://github.com/RootRover">@RootRover</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
