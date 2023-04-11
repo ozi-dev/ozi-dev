@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan ÖZTÜRK</h1>
 
 
-- 🔭 I’m currently working on **Image Processing and Web Development**
+- 🔭 I’m currently working on **Machine Learning and Web Development**
 
 - 📫 To reach me: **oguzhanozturk0@outlook.com**
 
