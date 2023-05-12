@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **Machine Learning and Web Development**
 - :microscope: Interested in **QA**
-- :car: Member of <a href="https://github.com/RootRover">@RootRover</a>
+- :car: Head of <a href="https://github.com/RootRover">@RootRover</a>
 
 - 📫 To reach me: **oguzhanozturk0@outlook.com**
 
