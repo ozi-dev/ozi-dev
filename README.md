@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan ÖZTÜRK</h1>
 
 
-- 🔭 Currently working on **Machine Learning & Web Development**
-- :microscope: Interested in **QA**
-- :car: Head of <a href="https://github.com/RootRover">@RootRover</a>
+- 🔭 Currently working on **Machine Learning**
 
 - 📫 To reach me: **oguzhanozturk0@outlook.com**
 
